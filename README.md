@@ -48,4 +48,4 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaoliveiracampos&layout=compact&langs_count=16&theme=radical"/>  
 </div>
 
-![Snake animation](https://github.com/amandaoliveiracampos/amandaoliveiracampos/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
