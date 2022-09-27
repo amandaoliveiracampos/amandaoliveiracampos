@@ -1,4 +1,4 @@
-## Olá, me chamo Amanda :vulcan_salute::woman_health_worker:
+## Olá, me chamo Amanda :vulcan_salute:
 
 <a href="https://www.linkedin.com/in/amanda-oliveira-campos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
