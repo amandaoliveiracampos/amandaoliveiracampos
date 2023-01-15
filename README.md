@@ -1,4 +1,4 @@
-![](/hello-world.gif)
+![](/developer.gif)
 
 ## Olá 🖖, me chamo Amanda
 
