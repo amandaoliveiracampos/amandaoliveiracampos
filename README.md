@@ -43,9 +43,6 @@
 </p>
 <br>
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amandaoliveiracampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaoliveiracampos&layout=compact&langs_count=16&theme=dracula"/>  
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandaoliveiracampos&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandaoliveiracampos&hide=Html&theme=nord_dark)
 
 ![Snake animation](https://github.com/amandaoliveiracampos/amandaoliveiracampos/blob/output/github-contribution-grid-snake.svg)
