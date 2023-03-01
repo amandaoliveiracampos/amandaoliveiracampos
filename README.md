@@ -38,6 +38,9 @@ Rest APIs, aplicações monolíticas e microservices.
 </p>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandaoliveiracampos&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandaoliveiracampos&hide=Html&theme=nord_dark)
+<a href="https://github.com/amandaoliveiracampos">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amandaoliveiracampos&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amandaoliveiracampos&layout=compact&langs_count=7&theme=omni"/>
+</a>
 
 ![Snake animation](https://github.com/amandaoliveiracampos/amandaoliveiracampos/blob/output/github-contribution-grid-snake.svg)
